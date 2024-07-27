@@ -13,8 +13,6 @@ namespace CSharp6Net46
 
         static void Main(string[] args)
         {
-            MinMaxValues.Example();
-            /*
             FormatNumericalData.Example();
             MinMaxValues.Example();
             CharFunctionality.Example();
@@ -68,8 +66,6 @@ namespace CSharp6Net46
             MetaDataUsingReflection.TypeReflection();
             DynamicLoading.Example();
             LateBinding.Example();
-
-            */
 
 
             Console.ReadLine();
